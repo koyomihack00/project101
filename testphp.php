@@ -7,14 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-
-    
-    <h1>New project 606</h1>
-
-    <h1>koyomi kung</h1>
-    <h1>Jackdeeper</h1>
+<h1> test php </h1>
 <?php
-    echo "test php from git ";
+    echo "test php from git run sucessfuly";
 ?>
 
 </body>
